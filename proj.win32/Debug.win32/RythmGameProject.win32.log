@@ -1,0 +1,22 @@
+﻿빌드 시작: 2013-06-13 오전 5:25:42
+     1>2 노드의 "D:\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\RythmGameProject\proj.win32\RythmGameProject.win32.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I. /I..\Classes /I"D:\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\cocos2dx" /I"D:\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\cocos2dx\include" /I"D:\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\cocos2dx\kazmath\include" /I"D:\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\cocos2dx\platform\win32" /I"D:\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\cocos2dx\platform\third_party\win32" /I"D:\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\cocos2dx\platform\third_party\win32\OGLES" /I"D:\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\CocosDenshion\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D STRICT /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS_DEBUG /D COCOS2D_DEBUG=1 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc110.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt ..\Classes\playScene.cpp
+         playScene.cpp
+     1>d:\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\cocos2dx\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+       Link:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\Debug.win32\RythmGameProject.win32.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\Debug.win32\\" libcocos2d.lib libExtensions.lib opengl32.lib glew32.lib libCocosDenshion.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\Debug.win32\RythmGameProject.win32.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\Debug.win32\RythmGameProject.win32.lib" /MACHINE:X86 Debug.win32\RythmGameProject.res
+         Debug.win32\AppDelegate.obj
+         Debug.win32\choice.obj
+         Debug.win32\choice2.obj
+         Debug.win32\HelloWorldScene.obj
+         Debug.win32\playScene.obj
+         Debug.win32\result.obj
+         Debug.win32\selectt.obj
+         Debug.win32\main.obj
+         RythmGameProject.win32.vcxproj -> D:\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\Debug.win32\RythmGameProject.win32.exe
+     1>"D:\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\RythmGameProject\proj.win32\RythmGameProject.win32.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:04.66
